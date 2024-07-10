@@ -1,0 +1,42 @@
+{
+  "name": "shortamo",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "abbeeytea": "^1.1.6",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "next": "14.2.4",
+    "pinsapod": "^1.1.5",
+    "queencrow": "^1.1.6",
+    "react": "^18",
+    "react-dom": "^18",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/am0xilin/shortamo"
+  },
+  "author": "am0xilin",
+  "bugs": {
+    "url": "https://github.com/am0xilin/shortamo/issues"
+  },
+  "homepage": "https://github.com/am0xilin/shortamo#readme"
+}
